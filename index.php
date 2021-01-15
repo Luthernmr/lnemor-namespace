@@ -15,6 +15,11 @@
     <body>
         
         <?php
+
+        $string = 'Llll*ll9lllll';
+
+        echo '<h1>Luther</h1>';
+        lnemor\checkPassword($string);
             /*
                 - tester un mot de passe
             */
