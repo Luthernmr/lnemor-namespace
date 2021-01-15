@@ -1,0 +1,1 @@
+# lnemor-namespace
